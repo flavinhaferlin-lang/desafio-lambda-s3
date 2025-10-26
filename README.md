@@ -15,11 +15,26 @@ Este projeto foi desenvolvido como parte do curso da **Digital Innovation One (D
 
 ## 🚀 Etapas Realizadas
 
-### 1️⃣ Criação do Bucket S3
-- Nome do bucket: `desafio-lambda-flavia`
-- Região: `sa-east-1 (São Paulo)`
+## 1️⃣ Criação do Bucket S3
+**Nome do bucket:** `desafio-lambda-flavia`  
+**Região:** `sa-east-1 (São Paulo)`
 
-![Criação do bucket](./images/Crianção%20do%20bucket.png)
+![Criação do bucket](images/Criação%20do%20bucket.png)
+
+---
+
+## 2️⃣ Criação da Função Lambda (Python)
+![Lambda Python](images/lambdapython.png)
+
+---
+
+## 3️⃣ Teste da Função Lambda
+![Teste Lambda](images/teste%20lambda.png)
+
+---
+
+## 4️⃣ Execução do S3
+![S3](images/S3.png)
 
 ---
 
